@@ -1,4 +1,4 @@
-# Audio word spliter
+# Audio word splitter
 
 ##### Install requirements:
 
