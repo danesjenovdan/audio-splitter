@@ -21,3 +21,7 @@
 #### remove audio background
 
 `python remove_audio.py "mp3-file-name.mp3"`
+
+#### audio file and text
+
+`https://radiostudent.si/kultura/art-area/sodobnost-sodobne-umetnosti-drugi%C4%8D`
